@@ -1,0 +1,6 @@
+This zip file contains the following files:
+- A .csv file with the original dataset.
+- An .ipynb file which contains the code for our EDA and preprocessing. 
+- An .ipynb file which contains the code for the topic modelling.
+- An .ipynb file which contains the code for the four classifiers.
+- A .pdf file containing the report. 
